@@ -8,11 +8,8 @@ DDL or Data Definition Language actually consists of the SQL commands that can b
  
 ## List of DDL commands: 
 <div align="justify">
-CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).
-DROP: This command is used to delete objects from the database.
-ALTER: This is used to alter the structure of the database.
-TRUNCATE: This is used to remove all records from a table, including all spaces allocated for the records are removed.
-RENAME: This is used to rename an object existing in the database.
+ CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers). DROP: This command is used to delete objects from the database. ALTER: This is used to alter the structure of the database. TRUNCATE: This is used to remove all records from a table, including all spaces allocated for the records are removed. RENAME: This is used to rename an object existing in the database.
+## Query: ### 1) Create a table student with the following fieds rollno,name,age,address,phoneno.
 </div>
 ## Query:
 ### 1) Create a table student with the following fieds rollno,name,age,address,phoneno.
