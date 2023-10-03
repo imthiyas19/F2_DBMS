@@ -11,4 +11,29 @@ create table student(rollno int primary key, name varchar(20),age int,address va
 ## OUTPUT:
 ![image](https://github.com/imthiyas19/F2_DBMS/assets/120353416/781d8138-cc0c-4f1c-bfa5-2a01dc79c1aa)
 ## 2) Change the above student table by adding another attribute department
+## SQL QUERY:
+alter table student add dept varchar(10);
+
+## OUTPUT:
+![image](https://github.com/imthiyas19/F2_DBMS/assets/120353416/580ccbd3-93c2-4902-9e60-a6653c2f00c8)
+## 3) Drop the student table
+## SQL QUERY:
+drop table student;
+## OUTPUT
+![image](https://github.com/imthiyas19/F2_DBMS/assets/120353416/46174e45-e45b-46e5-a4a0-aad60b7de651)
+### 4) Delete the student table using truncate keyword
+## SQL QUERY:
+truncate table student;
+
+## OUTPUT:
+![image](https://github.com/imthiyas19/F2_DBMS/assets/120353416/9a35e993-7498-4116-98c5-df30a2a146f9)
+### 5) Rename the student table to mystudent
+### SQL QUERY:
+alter table student rename to mystudent;
+
+### OUTPUT:
+![image](https://github.com/imthiyas19/F2_DBMS/assets/120353416/f3675580-79ed-47a6-8f61-c9b8e3a53b33)
+## RESULT:
+Hence successfully created a student database and execute DDL queries using SQL.
+
 
