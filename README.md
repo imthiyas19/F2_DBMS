@@ -50,4 +50,5 @@ truncate table student;
 alter table student rename to mystudent;
 
 ### OUTPUT:
-![Screenshot 2023-10-02 191115](https://github.com/Yamunaasri/F2_DBMS/assets/115707860/775fa06f-c14b-4fe4-86bc-5e13e7f4c63d)
+![image](https://github.com/imthiyas19/F2_DBMS/assets/120353416/5f665cb5-b4e4-4c25-adde-54d2011f0040)
+
