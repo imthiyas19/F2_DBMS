@@ -1,4 +1,5 @@
 ### AIM:
+# DATE:
 To create a student database and execute DDL queries using SQL.
 
 ### DDL (Data Definition Language)
